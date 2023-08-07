@@ -1,17 +1,10 @@
-Hi I'm dd_8, 
-And if your reading this...
-I'm already dead.
-
-(Just kidding)
-
 I’m dd_8 (@8DD8DD8),
-I'm your average person who dabbles in a bit of everything.
-So far I'm trying to learn Python and Node.js
-I like to talk about robots, AI, Aviation, Blender, Minecraft, Games, How stuff works and pretty much everything else.
-If you ever think you need something from me my discord is dd_8#5028
-Not taking requests or commisions right now as I have lots of schoolwork to keep up with making my schedule pretty full.
+I'm working on starting a company, but I don't have any of the skills I need.
+I also have no Idea what I'd sell at the company.
+Anyways, if you have tips for learning programming languages please let me know
+bye
 
-Bio Ver. 1.1.0
+Bio Ver. 1.2
 
 <!---
 8DD8DD8/8DD8DD8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
